@@ -1,0 +1,45 @@
+[09-Nov-2013 18:50:23] PHP Fatal error:  Call to a member function allow() on a non-object in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/Controller/UsersController.php on line 6
+[09-Nov-2013 19:36:59] PHP Fatal error:  Call to a member function create() on a non-object in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/View/Pages/images.ctp on line 24
+[09-Nov-2013 19:38:48] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting ',' or ';' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/View/Pages/images.ctp on line 24
+[09-Nov-2013 19:38:55] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting ',' or ';' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/View/Pages/images.ctp on line 24
+[09-Nov-2013 19:39:15] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting ',' or ';' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/View/Pages/images.ctp on line 24
+[09-Nov-2013 19:39:28] PHP Fatal error:  Call to a member function create() on a non-object in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/View/Pages/images.ctp on line 24
+[10-Nov-2013 13:56:47] PHP Fatal error:  Call to a member function allow() on a non-object in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/Controller/UsersController.php on line 6
+[10-Nov-2013 13:56:55] PHP Fatal error:  Call to a member function allow() on a non-object in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/Controller/UsersController.php on line 6
+[10-Nov-2013 14:12:55] PHP Fatal error:  Call to a member function create() on a non-object in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/View/Pages/images.ctp on line 24
+[10-Nov-2013 15:26:53] PHP Fatal error:  Call to a member function allow() on a non-object in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/Controller/UsersController.php on line 6
+[10-Nov-2013 15:27:06] PHP Fatal error:  Call to a member function allow() on a non-object in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/Controller/UsersController.php on line 6
+[10-Nov-2013 15:40:58] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/View/Pages/images.ctp on line 21
+[10-Nov-2013 15:41:26] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/View/Pages/images.ctp on line 21
+[10-Nov-2013 15:41:29] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/View/Pages/images.ctp on line 21
+[10-Nov-2013 15:43:07] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/View/Pages/images.ctp on line 21
+[10-Nov-2013 15:43:11] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/View/Pages/images.ctp on line 21
+[10-Nov-2013 17:36:51] PHP Parse error:  syntax error, unexpected ';' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/View/Pages/images.ctp on line 22
+[10-Nov-2013 17:52:08] PHP Fatal error:  Call to a member function password() on a non-object in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/Controller/UsersController.php on line 81
+[10-Nov-2013 18:15:14] PHP Fatal error:  Call to a member function password() on a non-object in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/Controller/UsersController.php on line 81
+[10-Nov-2013 18:38:45] PHP Parse error:  syntax error, unexpected T_ECHO, expecting T_FUNCTION in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/Controller/UsersController.php on line 5
+[10-Nov-2013 18:40:15] PHP Parse error:  syntax error, unexpected T_ECHO, expecting T_FUNCTION in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/Controller/AppController.php on line 35
+[10-Nov-2013 18:53:12] PHP Parse error:  syntax error, unexpected ')' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/Controller/UsersController.php on line 8
+[10-Nov-2013 19:04:15] PHP Parse error:  syntax error, unexpected '}' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/Controller/UsersController.php on line 95
+[10-Nov-2013 19:19:55] PHP Parse error:  syntax error, unexpected ';' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/Controller/UsersController.php on line 91
+[11-Nov-2013 08:19:01] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/Controller/AppController.php on line 43
+[11-Nov-2013 08:23:05] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/Controller/AppController.php on line 47
+[11-Nov-2013 08:51:01] PHP Parse error:  syntax error, unexpected ')' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/View/Pages/images.ctp on line 25
+[11-Nov-2013 08:58:23] PHP Parse error:  syntax error, unexpected ';' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/View/Pages/images.ctp on line 24
+[11-Nov-2013 09:03:12] PHP Parse error:  syntax error, unexpected ';' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/View/Pages/images.ctp on line 25
+[11-Nov-2013 09:56:24] PHP Parse error:  syntax error, unexpected ';' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/View/Users/login.ctp on line 3
+[11-Nov-2013 10:13:44] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/View/Users/login.ctp on line 7
+[11-Nov-2013 10:37:52] PHP Parse error:  syntax error, unexpected ';' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/Controller/UsersController.php on line 95
+[11-Nov-2013 10:38:20] PHP Parse error:  syntax error, unexpected ';' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/Controller/UsersController.php on line 95
+[11-Nov-2013 12:04:17] PHP Parse error:  syntax error, unexpected ']' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/Controller/UsersController.php on line 41
+[11-Nov-2013 12:08:06] PHP Parse error:  syntax error, unexpected T_ECHO in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/Controller/UsersController.php on line 43
+[11-Nov-2013 12:08:20] PHP Parse error:  syntax error, unexpected ';' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/Controller/UsersController.php on line 42
+[11-Nov-2013 12:09:46] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/Controller/UsersController.php on line 42
+[11-Nov-2013 12:10:15] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/Controller/UsersController.php on line 42
+[11-Nov-2013 13:01:24] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/Controller/UsersController.php on line 40
+[11-Nov-2013 13:10:21] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/Controller/UsersController.php on line 38
+[11-Nov-2013 13:10:34] PHP Parse error:  syntax error, unexpected ')' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/Controller/UsersController.php on line 39
+[11-Nov-2013 13:39:47] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/Controller/UsersController.php on line 72
+[11-Nov-2013 14:50:18] PHP Parse error:  syntax error, unexpected ';' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/View/Users/login.ctp on line 8
+[11-Nov-2013 14:50:36] PHP Parse error:  syntax error, unexpected ';' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/View/Users/login.ctp on line 8
+[11-Nov-2013 15:29:12] PHP Parse error:  syntax error, unexpected '(', expecting T_STRING or T_VARIABLE or '{' or '$' in /home3/carrep/public_html/myimages.myrepairdoctor.com/app/View/Users/success.ctp on line 1
